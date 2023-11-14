@@ -16,4 +16,6 @@
 
 &nbsp;
 
+<!--
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=lucieandres&show_icons=true&theme=radical)](https://github.com/lucieandres)
+-->
