@@ -1,4 +1,13 @@
-### Hi there 👋
+# Bienvenue sur mon profil !
+
+<p align="center">
+  <a href="[lien_vers_votre_profil_LinkedIn](https://www.linkedin.com/in/lucie-andres?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=lucieandres&show_icons=true&theme=radical)](https://github.com/lucieandres)
+
 
 <!--
 **lucieandres/lucieandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
