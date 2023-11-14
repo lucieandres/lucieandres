@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil !
 
 <p align="center">
-  <a href="[lien_vers_votre_profil_LinkedIn](https://www.linkedin.com/in/lucie-andres?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+  <a href="https://www.linkedin.com/in/lucie-andres?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
