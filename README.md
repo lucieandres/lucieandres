@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil !
 
-## 🏫 Étudiante à l'Université Polytech Nice Sophia
+## 🏫 Étudiante en 5e année de filière informatique, à l'Université Polytech Nice Sophia
 
 📍 Nice, France
 
