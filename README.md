@@ -4,7 +4,7 @@
 
 📍 Nice, France
 
-✉️ Contact : lucie.andres@etu.unice.fr   
+✉️ Contact : lucie.andres5@gmail.com  
 
 &nbsp;
 
